@@ -1,0 +1,11 @@
+#Intellij project files
+.idea
+target
+out
+gen
+
+#Gradle
+.gradle
+
+#Build
+build
